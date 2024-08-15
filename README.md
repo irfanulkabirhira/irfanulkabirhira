@@ -3,11 +3,11 @@
 
 - 🤝 I’m looking for help with **Job**
 
-- 💬 Ask me about **Java,Kotlin**
+- 💬 Ask me about **Java,Kotlin,Python**
 
 - 📫 How to reach me **erfanulkabirhira132@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I do not study that much **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
