@@ -58,13 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulkabirhira&layout=compact&langs_count=8&theme=dracula" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=irfanulkabirhira&theme=neon" width="48%"/>
-</p>
-
----
 
 <div align="center">
     <img
