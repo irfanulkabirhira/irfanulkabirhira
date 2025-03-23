@@ -21,10 +21,10 @@
   <a href="https://www.linkedin.com/in/md-irfanul-kabir-hira-356518279" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/irfanulkabirhira" target="_blank">
+  <a href="https://instagram.com/erfanulkabirhira" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="[https://twitter.com/your_username](https://x.com/HiraIrfanul)" target="_blank">
+    <a href="https://twitter.com/HiraIrfanul" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" width="40" height="40"/>
   </a>
   <a href="https://discord.com/users/your_discord_id" target="_blank">
