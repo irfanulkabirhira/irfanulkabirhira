@@ -66,4 +66,16 @@
 
 ---
 
+<div align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulkabirhira&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=light&hide_border=true&order=2"
+      width="54%"
+      alt="languages graph" />
+    <img
+      src="https://streak-stats.demolab.com/?user=irfanulkabirhira&theme=light&hide_border=true&card_width=420"
+      width="45%"
+      alt="streak stats" />
+</div>
+
+
 ⭐ **Thank you for visiting my profile!** 🚀
