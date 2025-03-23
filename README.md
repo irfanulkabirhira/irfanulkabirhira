@@ -24,7 +24,17 @@
   <a href="https://instagram.com/irfanulkabirhira" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
+  <a href="[https://twitter.com/your_username](https://x.com/HiraIrfanul)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/users/your_discord_id" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/+8801615099989" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 ### 🚀 Languages and Tools  
