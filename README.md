@@ -47,9 +47,10 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/>
+<a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
   </a>
+  
 </p>
 
 ---
