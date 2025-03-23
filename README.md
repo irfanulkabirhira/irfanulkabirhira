@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD IRFANUL KABIR HIRA</h1>
 <h3 align="center">ML and Data Analyst</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanulkabirhira&label=Profile%20views&color=0e75b6&style=flat" alt="irfanulkabirhira" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irfanulkabirhira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 🤝 I’m looking for help with **Job**
 
-### 🔹 About Me  
-- 🤝 I’m looking for **job opportunities**  
-- 💬 Ask me about **Java, Kotlin, Python, SQL, Power BI, Excel**  
-- 📫 Reach me at **erfanulkabirhira132@gmail.com**  
-- ⚡ Fun fact: **I hate studying** 😆  
+- 💬 Ask me about **Java,Kotlin,python,SQL,power BI,Excel**
 
+- 📫 How to reach me **erfanulkabirhira132@gmail.com**
+
+- ⚡ Fun fact **I hate Studing**
 ---
 
 ### 📲 Connect with Me  
