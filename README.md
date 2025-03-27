@@ -68,6 +68,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;"/>
   </a>
 </p>
+<img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulkabirhira&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=light&hide_border=true&order=2"
+      width="54%"
+      alt="languages graph" />
   
 </div>
 
@@ -75,10 +79,7 @@
 
 
 <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulkabirhira&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=light&hide_border=true&order=2"
-      width="54%"
-      alt="languages graph" />
+    
     
 </div>
 
