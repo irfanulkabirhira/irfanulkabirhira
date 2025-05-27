@@ -11,6 +11,7 @@
 - 💬 Ask me about **Java,Kotlin,python,SQL,power BI,Excel**
 
 - 📫 How to reach me **erfanulkabirhira132@gmail.com**
+- 🗣️Resume ** https://drive.google.com/file/d/1G_83bMjO8yvL7NTPuRBx8es6zSfQuq_8/view?usp=drive_link **
 
 - ⚡ Fun fact **I hate Studing**
 ---
