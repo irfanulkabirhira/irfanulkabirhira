@@ -55,7 +55,7 @@
 - 👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=irfanulkabirhira&label=Visitors&color=blueviolet&style=flat-square"/>  
 - 💼 Portfolio: [**mdirfanulkabirhira.netlify.app**](https://mdirfanulkabirhira.netlify.app)  
 - 📊 Kaggle: [**mdirfanulkabirhira**](https://www.kaggle.com/mdirfanulkabirhira)  
-- 🎓 Google Scholar: [**View My Publications**](https://scholar.google.com/citations?hl=en&user=5ArYI5YAAAAJ&view_op=list_works&gmla=AKzYXQ0M0O4yXT43w0E_JD1HcJo1RQ9Qp1nB97HCb3LA33d1QYwRcu92X5rkrp_-iJcD_udnKn68EDTNtXMoYtFn)
+- 🎓 Google Scholar: [**View My Publications**]()
 
 ---
 
