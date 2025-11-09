@@ -1,90 +1,84 @@
-<h1 align="center">Hi 👋, I'm MD IRFANUL KABIR HIRA </h1>
-<h3 align="center">ML and Data Analyst </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<!-- =========================================================== -->
+<!-- 🌟 MD IRFANUL KABIR HIRA | ML & DATA ANALYST PROFILE README -->
+<!-- =========================================================== -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=irfanulkabirhira&label=Profile%20views&color=0e75b6&style=flat" alt="irfanulkabirhira" /> </p>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">MD IRFANUL KABIR HIRA</span></h1>
+<h3 align="center">💡 ML & Data Analyst | Turning Data into Insights and Predictions 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="420" alt="Coding Guy">
+</p>
 
-- 🤝 I’m looking for help with **Job**
-
-- 💬 Ask me about **Java,Kotlin,python,SQL,power BI,Excel**
-
-- 📫 How to reach me **erfanulkabirhira132@gmail.com**
-
-- ⚡ Fun fact **I hate Studing**
 ---
 
-### 📲 Connect with Me  
+### 👨‍💻 About Me  
 
-<p align="left">
+- 🔍 I’m currently exploring **Machine Learning, Predictive Modeling & Data Visualization**
+- 🤝 I’m looking for **job opportunities** in ML, Data Science, or Analytics  
+- 💬 Ask me about **Python, Java, Kotlin, SQL, Power BI, Excel**  
+- 📫 Reach me at **[erfanulkabirhira132@gmail.com](mailto:erfanulkabirhira132@gmail.com)**  
+- ⚡ Fun fact: **I learn faster when I’m teaching others!**  
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/md-irfanul-kabir-hira-356518279" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/erfanulkabirhira" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
   </a>
-    <a href="https://twitter.com/HiraIrfanul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" width="40" height="40"/>
+  <a href="https://twitter.com/HiraIrfanul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter"/>
   </a>
   <a href="https://discord.com/users/your_discord_id" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord"/>
   </a>
   <a href="https://wa.me/+8801615099989" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" alt="WhatsApp"/>
   </a>
 </p>
 
-
 ---
 
-### 🚀 Languages and Tools  
-<div align="center">
-  <img
-      src="https://streak-stats.demolab.com/?user=irfanulkabirhira&theme=light&hide_border=true&card_width=420"
-      width="45%"
-      alt="streak stats" />
-      <div align="center">
-      <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;"/>
-  </a>
+### 🧠 Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,matplotlib,powerbi,mongodb,nodejs,nextjs" height="48" alt="skills"/>
 </p>
-    
-    
-</div>
 
-  
-
-<img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulkabirhira&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=light&hide_border=true&order=2"
-      width="54%"
-      alt="languages graph" />
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulkabirhira&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=irfanulkabirhira&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
+### 📊 GitHub Stats & Analytics  
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfanulkabirhira&theme=tokyonight" alt="Profile Details"/>
+</p>
 
+---
 
+### 🧩 Featured Projects  
 
-⭐ **Thank you for visiting my profile!** 🚀
+- 📘 [**ML Prediction Dashboard**](https://mdirfanulkabirhira.netlify.app) – Power BI & Python  
+- 💻 [**Portfolio Website**](https://mdirfanulkabirhira.netlify.app) – React + Next.js  
+- 📊 [**Kaggle Projects**](https://www.kaggle.com/mdirfanulkabirhira) – Machine Learning & Analytics  
+
+---
+
+### ✨ Quick Facts  
+
+- 🌎 Based in **Bangladesh (UTC +6)**  
+- 🕒 Profile Views: <img src="https://komarev.com/ghpvc/?username=irfanulkabirhira&label=Visitors&color=blueviolet&style=flat-square" alt="profile views" />  
+- 💼 Portfolio: [**mdirfanulkabirhira.netlify.app**](https://mdirfanulkabirhira.netlify.app)  
+- 📊 Kaggle: [**mdirfanulkabirhira**](https://www.kaggle.com/mdirfanulkabirhira)  
+
+---
+
+<h3 align="center">⭐ Thank you for visiting my profile! Keep Learning & Keep Growing 🚀</h3>
